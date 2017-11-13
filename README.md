@@ -1,6 +1,8 @@
 # University
 Here you can find all the Maptime University Presentation Materials of the evening! 
 
+### [ Download everything ](https://github.com/maptime-ams/University/archive/master.zip)
+
 [Maptime Introduction Presentation](maptime-ams.github.com/University)
 
 [Presentation Menno-Jan Kraak](https://github.com/maptime-ams/University/blob/master/2017-Maptime%20Amsterdam.key.pdf)
